@@ -6,6 +6,7 @@
     <modules>
         <module>common</module>
     </modules>
+         <!-- Hello -->
 
     <parent>
         <groupId>org.springframework.boot</groupId>
